@@ -17,6 +17,8 @@
 </div>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=header"/>
+
 
 # 👨‍💻 About Me
 
